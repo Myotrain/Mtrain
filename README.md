@@ -5,3 +5,5 @@
 * Wireless control of RC car/Sphero/etc
 * Dev interface w/ windows drivers
 * Reasonable amount of battery life, USB charging.
+
+* Created dev branch & master branch
